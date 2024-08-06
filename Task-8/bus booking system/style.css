@@ -1,0 +1,30 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+    color: rgba(17, 0, 255, 0.951);
+    background: rgba(0, 13, 255, 0.297);
+    background: url("image.jpg") repeat-y 0 0;
+  }
+  
+  form {
+    margin-bottom: 30px;
+    color: #00ffff;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    color: rgb(210, 30, 30);
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  button {
+    margin-bottom: 20px;
+  }
+  
+  #bookingStatus {
+    margin-top: 30px;
+    font-weight: bold;
+  }
+  
